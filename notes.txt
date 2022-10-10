@@ -1,0 +1,5 @@
+Set up local git repository:  git in it 
+Git always keeps tracking of 3 trees: head, index and file system 
+A tree --> a group of files 
+Start with file system (making chains, add file ...) : git add . (Add all the changes in this directory, will update index ) 
+Git commit 
